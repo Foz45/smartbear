@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "eloquent-cray-c6bf5b.netlify.app"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "themes"
